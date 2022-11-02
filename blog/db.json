@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "title": "Rock",
+      "body": "The rock is cooking in the kitchen.",
+      "date": "0001-01-01",
+      "author": "Rahul",
+      "id": 6
+    }
+  ]
+}
